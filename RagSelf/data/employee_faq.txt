@@ -1,0 +1,31 @@
+TECHNOVA SOLUTIONS - EMPLOYEE FAQ
+
+Q1. How can I reset my company password?
+Employees can reset their password through the internal employee portal. If the password reset option does not work, contact the IT support team.
+
+Q2. How do I contact IT support?
+Employees can contact IT support by sending an email to it-support@technova.example.
+
+Q3. Where can I find my payslip?
+Monthly payslips are available through the employee self-service portal. Employees can log in using their company credentials.
+
+Q4. How can I update my bank account details?
+Employees must contact the HR department to update their bank account information. Supporting documents may be required.
+
+Q5. What should I do if I lose my company laptop?
+Employees should immediately report a lost or stolen company laptop to the IT security team and their reporting manager.
+
+Q6. Can I install personal software on my company laptop?
+Employees should not install unauthorized software on company devices. Software installation requests should be submitted to the IT department.
+
+Q7. How do I apply for leave?
+Employees can apply for leave through the HR portal. The request should be submitted to the reporting manager for approval.
+
+Q8. Who should I contact for salary-related questions?
+Employees should contact the Human Resources or Payroll department for salary-related questions.
+
+Q9. How do I request a new access card?
+Employees can request a replacement access card by contacting the Administration department.
+
+Q10. What should I do if I receive a suspicious email?
+Employees should not click suspicious links or download unknown attachments. The email should be reported to the IT security team immediately.
